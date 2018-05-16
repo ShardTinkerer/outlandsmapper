@@ -3,5 +3,7 @@
 <Marker Name="Shelter Bard" X="1983" Y="2630" Icon="BARD" Facet="0"/>
   
 <Marker Name="Andaria Bard" X="2160" Y="618" Icon="BARD" Facet="0"/>
+  
+<Marker Name="Horseshoe Bay Bard" X="2018" Y="2252" Icon="BARD" Facet="0"/>
 
 </Pack>

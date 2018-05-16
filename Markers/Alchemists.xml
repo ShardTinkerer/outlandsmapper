@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><Pack Name="Alchemists" Revision="0">
+<Marker Name="Shelter Alchemist" X="1917" Y="2608" Icon="REAGENTS" Facet="0"/>
 
 <Marker Name="Prevalia Alchemist" X="1613" Y="1479" Icon="REAGENTS" Facet="0"/>
 <Marker Name="Prevalia Alchemist" X="1755" Y="1418" Icon="REAGENTS" Facet="0"/>

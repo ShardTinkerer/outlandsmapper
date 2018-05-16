@@ -1,4 +1,4 @@
-# outlandsmapper
+# Outlands Mapper
 
 Download at Ultimamapper.com
 

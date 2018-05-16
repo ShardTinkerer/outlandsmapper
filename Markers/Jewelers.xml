@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><Pack Name="Jewelers" Revision="0">
 
-<Marker Name="Shelter Jeweler" X="1980" Y="2565" Icon="JEWELER" Facet="0"/>
+<Marker Name="Shelter Jeweler" X="1980" Y="2561" Icon="JEWELER" Facet="0"/>
 
 <Marker Name="Prevalia Jeweler" X="1929" Y="1728" Icon="JEWELER" Facet="0"/>
 <Marker Name="Prevalia Jeweler" X="1872" Y="1649" Icon="JEWELER" Facet="0"/>

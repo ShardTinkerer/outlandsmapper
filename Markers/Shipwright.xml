@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><Pack Name="Shipwright" Revision="0">
 
 <Marker Name="Shelter Shipwright" X="1974" Y="2620" Icon="SHIPWRIGHT" Facet="0"/>
+  
+<Marker Name="Andaria Shipwright" X="2213" Y="780" Icon="SHIPWRIGHT" Facet="0"/>
 
 </Pack>

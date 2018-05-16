@@ -4,5 +4,7 @@
   
 <Marker Name="Andaria Weaponsmith " X="2159" Y="589" Icon="BLACKSMITH" Facet="0"/>
 <Marker Name="Andaria Weaponsmith " X="2169" Y="700" Icon="BLACKSMITH" Facet="0"/>
+  
+<Marker Name="Horseshoe Bay Weaponsmith " X="2016" Y="2226" Icon="BLACKSMITH" Facet="0"/>
 
 </Pack>

@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><Pack Name="Tanner" Revision="0">
 
 <Marker Name="Shelter Tanner" X="1994" Y="2616" Icon="TANNER" Facet="0"/>
+  
+<Marker Name="Andaria Tanner" X="2155" Y="730" Icon="TANNER" Facet="0"/>
 
 </Pack>

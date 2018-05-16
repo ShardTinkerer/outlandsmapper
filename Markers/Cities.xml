@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><Pack Name="Cities" Revision="0">
 
-<Marker Name="Example City" X="5252" Y="104" Icon="TOWN" Facet="0"/>
+<Marker Name="Shelter Island" X="1954" Y="2602" Icon="TOWN" Facet="0"/>
 
+<Marker Name="Andaria" X="2185" Y="648" Icon="TOWN" Facet="0"/>
 
 </Pack>

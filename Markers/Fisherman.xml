@@ -4,5 +4,8 @@
 <Marker Name="Shelter Fisherman" X="1885" Y="2649" Icon="FISHERMANSGUILD" Facet="0"/>
 
 <Marker Name="Andaria Fisherman" X="2151" Y="800" Icon="FISHERMANSGUILD" Facet="0"/>
+  
+<Marker Name="Horseshoe Bay Fisherman" X="2044" Y="2309" Icon="FISHERMANSGUILD" Facet="0"/>
+<Marker Name="Horseshoe Bay Fisherman" X="2021" Y="2196" Icon="FISHERMANSGUILD" Facet="0"/>
 
 </Pack>

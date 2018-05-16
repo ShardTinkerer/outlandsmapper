@@ -6,5 +6,9 @@
 <Marker Name="Andaria Docks" X="2183" Y="814" Icon="DOCKS" Facet="0"/>
 <Marker Name="Andaria Docks" X="2257" Y="700" Icon="DOCKS" Facet="0"/>
 <Marker Name="Andaria Docks" X="2263" Y="618" Icon="DOCKS" Facet="0"/>
+  
+<Marker Name="Horseshoe Bay Docks" X="2046" Y="2207" Icon="DOCKS" Facet="0"/>
+<Marker Name="Horseshoe Bay Docks" X="2036" Y="2342" Icon="DOCKS" Facet="0"/>
+<Marker Name="Horseshoe Bay Docks" X="2040" Y="2179" Icon="DOCKS" Facet="0"/>
 
 </Pack>

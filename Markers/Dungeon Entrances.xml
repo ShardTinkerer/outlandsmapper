@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><Pack Name="Dungeon Entrances" Revision="0">
 
 <Marker Name="Example Dungeon Entrance" X="3786" Y="1101" Icon="DUNGEON" Facet="0"/>
+<Marker Name="Aegis Keep" X="2167" Y="2072" Icon="DUNGEON" Facet="0"/>
+<Marker Name="Inferno" X="2007" Y="3255" Icon="DUNGEON" Facet="0"/>
+<Marker Name="Pulma" X="1785" Y="983" Icon="DUNGEON" Facet="0"/>
+<Marker Name="Mt Petrum" X="731" Y="768" Icon="DUNGEON" Facet="0"/>
+<Marker Name="The Forsaken Keep" X="1942" Y="1895" Icon="DUNGEON" Facet="0"/>
+
+
+
+
 
 </Pack>

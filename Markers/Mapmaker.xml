@@ -4,5 +4,7 @@
 <Marker Name="Shelter Mapmaker2" X="1933" Y="2656" Icon="SHIPWRIGHT" Facet="0"/>
   
 <Marker Name="Andaria Mapmaker" X="2169" Y="789" Icon="SHIPWRIGHT" Facet="0"/>
+  
+<Marker Name="Horseshoe Bay Mapmaker" X="2014" Y="2243" Icon="SHIPWRIGHT" Facet="0"/>
 
 </Pack>

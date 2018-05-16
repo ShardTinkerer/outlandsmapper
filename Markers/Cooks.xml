@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><Pack Name="Cook" Revision="0">
 
 <Marker Name="Andaria Cook" X="2170" Y="777" Icon="COOKSGUILD" Facet="0"/>
+  
+<Marker Name="Horseshoe Bay Cook" X="2047" Y="2265" Icon="COOKSGUILD" Facet="0"/>
 
 </Pack>

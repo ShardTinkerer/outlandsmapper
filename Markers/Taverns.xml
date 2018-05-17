@@ -17,4 +17,7 @@
 <Marker Name="Corpse Creek Tavern" X="875" Y="739" Icon="TAVERN" Facet="0"/>
 
 <Marker Name="Outpost Tavern" X="3053" Y="509" Icon="TAVERN" Facet="0"/>
+  
+<Marker Name="Cambria Tavern" X="1796" Y="3001" Icon="TAVERN" Facet="0"/>
+  
 </Pack>

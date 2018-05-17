@@ -5,5 +5,7 @@
 <Marker Name="Andaria" X="2185" Y="648" Icon="TOWN" Facet="0"/>
   
 <Marker Name="Horseshoe Bay" X="2036" Y="2237" Icon="TOWN" Facet="0"/>
+  
+<Marker Name="Cambria" X="1766" Y="3001" Icon="TOWN" Facet="0"/>
 
 </Pack>

@@ -10,5 +10,10 @@
 <Marker Name="Horseshoe Bay Docks" X="2046" Y="2207" Icon="DOCKS" Facet="0"/>
 <Marker Name="Horseshoe Bay Docks" X="2036" Y="2342" Icon="DOCKS" Facet="0"/>
 <Marker Name="Horseshoe Bay Docks" X="2040" Y="2179" Icon="DOCKS" Facet="0"/>
+  
+<Marker Name="Cambria Docks" X="1916" Y="3100" Icon="DOCKS" Facet="0"/>
+<Marker Name="Cambria Docks" X="1933" Y="3083" Icon="DOCKS" Facet="0"/>
+<Marker Name="Cambria Docks" X="1935" Y="3048" Icon="DOCKS" Facet="0"/>
+<Marker Name="Cambria Docks" X="1946" Y="2886" Icon="DOCKS" Facet="0"/>
 
 </Pack>

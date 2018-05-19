@@ -8,8 +8,10 @@
 
 <Marker Name="Cambria Provisioner" X="1672" Y="2917" Icon="PROVISIONER" Facet="0"/>
 <Marker Name="Cambria Provisioner" X="1890" Y="3056" Icon="PROVISIONER" Facet="0"/>
+<Marker Name="Cambria Provisioner" X="1858" Y="3093" Icon="PROVISIONER" Facet="0"/>
 
 <Marker Name="Andaria Provisioner" X="2212" Y="794" Icon="PROVISIONER" Facet="0"/>
+<Marker Name="Andaria Provisioner" X="2214" Y="764" Icon="PROVISIONER" Facet="0"/>
 
 <Marker Name="Horseshoe Bay Provisioner" X="2017" Y="2210" Icon="PROVISIONER" Facet="0"/>
 

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><Pack Name="Moongates" Revision="0">
 
-<Marker Name="Shelter Island Moongate" X="1877" Y="2533" Icon="MOONGATE" Facet="0"/>
+<Marker Name="Shelter Island Moongate" X="1977" Y="2533" Icon="MOONGATE" Facet="0"/>
 <Marker Name="Terran Moongate" X="865" Y="1570" Icon="MOONGATE" Facet="0"/>
 <Marker Name="Cambria Moongate" X="1693" Y="3153" Icon="MOONGATE" Facet="0"/>
 <Marker Name="Outpost Moongate" X="2974" Y="611" Icon="MOONGATE" Facet="0"/>

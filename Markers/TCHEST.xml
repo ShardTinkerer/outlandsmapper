@@ -27,7 +27,7 @@
 <Marker Name="Aegis Three" X="5855" Y="308" Icon="LEVEL3" Facet="0"/>
 <Marker Name="Aegis Three" X="5872" Y="314" Icon="LEVEL3" Facet="0"/>
 <Marker Name="Aegis Three" X="5888" Y="283" Icon="LEVEL3" Facet="0"/>
-<Marker Name="Aegis Three" X="2906" Y="308" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Aegis Three" X="5906" Y="308" Icon="LEVEL3" Facet="0"/>
 <Marker Name="Aegis Three" X="5879" Y="319" Icon="LEVEL3" Facet="0"/>
 <Marker Name="Aegis Four" X="5886" Y="241" Icon="LEVEL4" Facet="0"/>
 
@@ -228,7 +228,7 @@
 <Marker Name="Petram Five" X="5703" Y="2898" Icon="LEVEL5" Facet="0"/>
 <Marker Name="Petram Six" X="5720" Y="2885" Icon="LEVEL6" Facet="0"/>
 <Marker Name="Petram Four" X="5785" Y="2905" Icon="LEVEL4" Facet="0"/>
-<Marker Name="Petram Four" X="2731" Y="2908" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Petram Four" X="5731" Y="2908" Icon="LEVEL4" Facet="0"/>
 <Marker Name="Petram Six" X="5757" Y="2872" Icon="LEVEL6" Facet="0"/>
 <Marker Name="Petram Five" X="5755" Y="2898" Icon="LEVEL5" Facet="0"/>
 <Marker Name="Petram Four" X="5718" Y="2829" Icon="LEVEL4" Facet="0"/>

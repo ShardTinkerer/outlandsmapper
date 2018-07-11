@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><Pack Name="Subterranean" Revision="0">
+
+<Marker Name="New Player Dungeon" X="1912" Y="2558" Icon="DUNGEON" Facet="0"/>
+<Marker Name="Necromancer's Lair" X="1871" Y="781" Icon="DUNGEON" Facet="0"/>
+<Marker Name="Prevalia Cemetery Crypt" X="1894" Y="1782" Icon="DUNGEON" Facet="0"/>
+
+<Marker Name="Cambria Island Dungeon" X="1395" Y="2615" Icon="DUNGEON" Facet="0"/>
+<Marker Name="Cambria Gatekeeper" X="1416" Y="2578" Icon="DUNGEON" Facet="0"/>
+<Marker Name="Cambria Excavation" X="1422" Y="2692" Icon="DUNGEON" Facet="0"/>
+<Marker Name="Wolf Cave" X="1359" Y="2524" Icon="DUNGEON" Facet="0"/>
+<Marker Name="Ratman Tunnel" X="1291" Y="1419" Icon="DUNGEON" Facet="0"/>
+<Marker Name="Weathertop" X="1292" Y="1420" Icon="DUNGEON" Facet="0"/>
+<Marker Name="Demergo Swamps" X="1276" Y="2260" Icon="DUNGEON" Facet="0"/>
+
+</Pack>

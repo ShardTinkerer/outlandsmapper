@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><Pack Name="Shrines" Revision="0">
 
-<Marker Name="Example Shrine" X="529" Y="212" Icon="SHRINE" Facet="3"/>
+<Marker Name="Chaos" X="848" Y="549" Icon="SHRINE" Facet="0"/>
+<Marker Name="Compassion" X="1129" Y="2991" Icon="SHRINE" Facet="0"/>
+<Marker Name="Honesty" X="2921" Y="612" Icon="SHRINE" Facet="0"/>
+<Marker Name="Honour" X="1315" Y="1215" Icon="SHRINE" Facet="0"/>
+<Marker Name="Humility" X="1259" Y="2284" Icon="SHRINE" Facet="0"/>
+<Marker Name="Justice" X="1900" Y="808" Icon="SHRINE" Facet="0"/>
+<Marker Name="Sacrifice" X="2441" Y="3273" Icon="SHRINE" Facet="0"/>
+<Marker Name="Spirituality" X="2282" Y="941" Icon="SHRINE" Facet="0"/>
+<Marker Name="Valor" X="1167" Y="1489" Icon="SHRINE" Facet="0"/>
+
 
 </Pack>

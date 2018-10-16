@@ -2,11 +2,15 @@
 
 Download at Ultimamapper.com
 
-go C:\Users\USER\Documents\Ultima Mapper
+Exact the files to C:\Users\USER\Documents\Ultima Mapper
 
-DELETE the marker folder, replace them with the one included
+Run Ultima Mapper
 
-OVERWRITE the maps & icons folder
+Go File > Settings
+
+Set the resource path to the new folder you just created.  C:\Users\USER\Documents\outlandsmapper-master
+
+Restart Ultima Mapper
 
 
 ---------------------------------------------------------

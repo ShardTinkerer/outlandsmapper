@@ -1,7 +1,7 @@
 # Outlands Mapper
 
 Video guide:
-http://ultimamapper.com/outlands_mapper.webm
+http://ultimamapper.com/outlands_mapper.webm OR https://www.youtube.com/watch?v=uzhyJN-Woqs
 
 Step by step:
 1) Download & Install Ultima Mapper from http://www.ultimamapper.com

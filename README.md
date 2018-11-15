@@ -1,16 +1,25 @@
 # Outlands Mapper
 
-Download at Ultimamapper.com
+Video guide:
+http://ultimamapper.com/outlands_mapper.webm
 
-Exact the files to C:\Users\USER\Documents\Ultima Mapper
+Step by step:
+1) Download & Install Ultima Mapper from http://www.ultimamapper.com
 
-Run Ultima Mapper
+2) Download & Extract the files contained in this GitHub to C:\Users\USER\Documents\outlandsmapper-master
 
-Go File > Settings
+3) Run Ultima Mapper
 
-Set the resource path to the new folder you just created.  C:\Users\USER\Documents\outlandsmapper-master
+4) Go File > Settings
 
-Restart Ultima Mapper
+5) Set the Resource Path to the new folder you just created:  C:\Users\USER\Documents\outlandsmapper-master
+
+6) Restart Ultima Mapper
+
+To see the Outlands map go View > Current Facet > Felucca
+
+To see the Outlands markers go Markers > Select
+
 
 
 ---------------------------------------------------------

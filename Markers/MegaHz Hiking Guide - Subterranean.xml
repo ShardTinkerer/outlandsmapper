@@ -10,8 +10,6 @@
 
 <Marker Name="Prevalian Quarry" Facet="0" Icon="TERRAINX" X="1148" Y="1080"/>
 
-<Marker Name="Prevalian Sewers" Facet="0" Icon="TERRAINX" X="1841" Y="1461"/>
-
 <Marker Name="Ratman Hovel" Facet="0" Icon="TERRAINX" X="1298" Y="1421"/>
 
 </Pack>

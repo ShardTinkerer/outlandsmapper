@@ -168,11 +168,11 @@
 
 <Marker Name="Ruined Cabin" Facet="0" Icon="LANDMARKX" X="2289" Y="1070"/>
 
-<Marker Name="Ruinied House" Facet="0" Icon="LANDMARKX" X="1938" Y="1013"/>
+<Marker Name="Ruined House" Facet="0" Icon="LANDMARKX" X="1938" Y="1013"/>
 
-<Marker Name="Ruinied Lighthouse" Facet="0" Icon="LANDMARKX" X="2401" Y="1001"/>
+<Marker Name="Ruined Lighthouse" Facet="0" Icon="LANDMARKX" X="2401" Y="1001"/>
 
-<Marker Name="Ruinded Lycaeum" Facet="0" Icon="LANDMARKX" X="1278" Y="1665"/>
+<Marker Name="Ruined Lycaeum" Facet="0" Icon="LANDMARKX" X="1278" Y="1665"/>
 
 <Marker Name="Ruined Snow Fortress" Facet="0" Icon="LANDMARKX" X="1706" Y="616"/>
 
@@ -237,5 +237,9 @@
 <Marker Name="Western Ruins Brigands 3" Facet="0" Icon="LANDMARKX" X="1084" Y="1337"/>
 
 <Marker Name="Zebra Falls" Facet="0" Icon="LANDMARKX" X="992" Y="1380"/>
+
+<Marker Name="Daemon Keep" Facet="0" Icon="LANDMARKX" X="1261" Y="1744"/>
+
+<Marker Name="Bludchok Orc Fort" Facet="0" Icon="LANDMARKX" X="1092" Y="1005"/>
 
 </Pack>

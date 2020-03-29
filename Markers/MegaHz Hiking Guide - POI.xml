@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><Pack Name="Atlas - Points of Interest" Revision="0">
 
+<Marker Name="Andaria Castle" Facet="0" Icon="LANDMARKX" X="2114" Y="670"/>
+
 <Marker Name="Andaria Cemetary" Facet="0" Icon="LANDMARKX" X="2092" Y="529"/>
 
 <Marker Name="Andaria Gate" Facet="0" Icon="LANDMARKX" X="1971" Y="928"/>
@@ -22,6 +24,8 @@
 
 <Marker Name="Blackthorns Fort" Facet="0" Icon="LANDMARKX" X="2489" Y="1091"/>
 
+<Marker Name="Bludchok Orc Fort" Facet="0" Icon="LANDMARKX" X="1092" Y="1005"/>
+
 <Marker Name="Bonfire" Facet="0" Icon="LANDMARKX" X="1980" Y="1026"/>
 
 <Marker Name="Brigand Camp 1" Facet="0" Icon="LANDMARKX" X="1466" Y="1255"/>
@@ -36,6 +40,8 @@
 
 <Marker Name="Burnt Farmlands" Facet="0" Icon="LANDMARKX" X="1090" Y="1897"/>
 
+<Marker Name="Cambria Castle" Facet="0" Icon="LANDMARKX" X="1712" Y="2838"/>
+
 <Marker Name="Cambrian Lighthouse" Facet="0" Icon="LANDMARKX" X="2081" Y="3060"/>
 
 <Marker Name="Cathedral and Inn" Facet="0" Icon="LANDMARKX" X="1461" Y="2458"/>
@@ -44,9 +50,13 @@
 
 <Marker Name="Cathedral St Francis Ruins" Facet="0" Icon="LANDMARKX" X="1240" Y="2055"/>
 
+<Marker Name="Chaos Hill" Facet="0" Icon="LANDMARKX" X="867" Y="550"/>
+
 <Marker Name="Citadel" Facet="0" Icon="LANDMARKX" X="2108" Y="2051"/>
 
 <Marker Name="Corpse Creek Lookout" Facet="0" Icon="LANDMARKX" X="790" Y="586"/>
+
+<Marker Name="Daemon Keep" Facet="0" Icon="LANDMARKX" X="1261" Y="1744"/>
 
 <Marker Name="Deadman Isle" Facet="0" Icon="LANDMARKX" X="1047" Y="3274"/>
 
@@ -147,6 +157,8 @@
 <Marker Name="Pool Of Power" Facet="0" Icon="LANDMARKX" X="984" Y="1149"/>
 
 <Marker Name="Prevalia Bog" Facet="0" Icon="LANDMARKX" X="1455" Y="1696"/>
+
+<Marker Name="Prevalia Castle" Facet="0" Icon="LANDMARKX" X="1759" Y="1448"/>
 
 <Marker Name="Prevalia Cemetary" Facet="0" Icon="LANDMARKX" X="1819" Y="1763"/>
 

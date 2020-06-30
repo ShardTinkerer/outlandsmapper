@@ -90,6 +90,8 @@
 
 <Marker Name="Grasslands" Facet="0" Icon="LANDMARKX" X="1077" Y="2262"/>
 
+<Marker Name="Haven Valley Lodge" Facet="0" Icon="LANDMARKX" X="1296" Y="2519"/>
+
 <Marker Name="Hidden Valley" Facet="0" Icon="LANDMARKX" X="1439" Y="2918"/>
 
 <Marker Name="Hollow Hills" Facet="0" Icon="LANDMARKX" X="1840" Y="2077"/>
@@ -111,6 +113,8 @@
 <Marker Name="Island Spring" Facet="0" Icon="LANDMARKX" X="736" Y="3210"/>
 
 <Marker Name="Jungle Baths" Facet="0" Icon="LANDMARKX" X="2760" Y="3423"/>
+
+<Marker Name="Lair of Eternal Darkness" Facet="0" Icon="LANDMARKX" X="2889" Y="594"/>
 
 <Marker Name="Lizardmen Fort" Facet="0" Icon="LANDMARKX" X="1362" Y="2106"/>
 
@@ -177,6 +181,8 @@
 <Marker Name="Prevalia Waterfall" Facet="0" Icon="LANDMARKX" X="1788" Y="1041"/>
 
 <Marker Name="Prevalia Zoo" Facet="0" Icon="LANDMARKX" X="1820" Y="1519"/>
+
+<Marker Name="Riverrun Lodge" Facet="0" Icon="LANDMARKX" X="2800" Y="557"/>
 
 <Marker Name="Ruined Cabin" Facet="0" Icon="LANDMARKX" X="2289" Y="1070"/>
 

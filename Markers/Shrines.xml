@@ -1,14 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?><Pack Name="Shrines" Revision="0">
+<?xml version="1.0" encoding="UTF-8"?><Pack Name="Atlas - Shrines" Revision="0">
 
-<Marker Name="Chaos" X="848" Y="549" Icon="SHRINE" Facet="0"/>
-<Marker Name="Compassion" X="1129" Y="2991" Icon="SHRINE" Facet="0"/>
-<Marker Name="Honesty" X="2921" Y="612" Icon="SHRINE" Facet="0"/>
-<Marker Name="Honour" X="1315" Y="1215" Icon="SHRINE" Facet="0"/>
-<Marker Name="Humility" X="1259" Y="2284" Icon="SHRINE" Facet="0"/>
-<Marker Name="Justice" X="1900" Y="808" Icon="SHRINE" Facet="0"/>
-<Marker Name="Sacrifice" X="2441" Y="3273" Icon="SHRINE" Facet="0"/>
-<Marker Name="Spirituality" X="2282" Y="941" Icon="SHRINE" Facet="0"/>
-<Marker Name="Valor" X="1167" Y="1489" Icon="SHRINE" Facet="0"/>
+<Marker Name="Compassion Shrine" Facet="0" Icon="SHRINEX" X="1138" Y="2974"/>
 
+<Marker Name="Honesty Shrine" Facet="0" Icon="SHRINEX" X="2943" Y="618"/>
+
+<Marker Name="Honor Shrine" Facet="0" Icon="SHRINEX" X="1340" Y="1222"/>
+
+<Marker Name="Humility Shrine" Facet="0" Icon="SHRINEX" X="1275" Y="2275"/>
+
+<Marker Name="Justice Shrine" Facet="0" Icon="SHRINEX" X="1895" Y="829"/>
+
+<Marker Name="Sacrifice Shrine" Facet="0" Icon="SHRINEX" X="2454" Y="3291"/>
+
+<Marker Name="Spirituality Shrine" Facet="0" Icon="SHRINEX" X="2283" Y="962"/>
+
+<Marker Name="Valor Shrine" Facet="0" Icon="SHRINEX" X="1162" Y="1514"/>
+
+<Marker Name="Chaos Shrine" Facet="0" Icon="SHRINEX" X="3856" Y="1401"/>
 
 </Pack>
